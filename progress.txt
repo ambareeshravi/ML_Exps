@@ -2,3 +2,4 @@ January 20, 2020 Created the Git repo for experiments
 January 21, 2020 Created the initial list of experiments
 January 21, 2020 Created the Linear Regression notebook
 January 22, 2020 Completed Linear Regression from scratch
+January 22, 2020 Added feature scaling in Linear Regression for faster convergence
